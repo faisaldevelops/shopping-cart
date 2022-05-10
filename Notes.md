@@ -1,0 +1,1 @@
++ # alignRight didn't work, so i added align={{ sm: 'right' }} in Header.js
